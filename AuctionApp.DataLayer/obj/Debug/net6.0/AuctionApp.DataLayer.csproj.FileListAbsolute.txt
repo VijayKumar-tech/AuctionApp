@@ -1,0 +1,14 @@
+C:\OnlineAuctionApp\AuctionApp.DataLayer\bin\Debug\net6.0\AuctionApp.DataLayer.deps.json
+C:\OnlineAuctionApp\AuctionApp.DataLayer\bin\Debug\net6.0\AuctionApp.DataLayer.dll
+C:\OnlineAuctionApp\AuctionApp.DataLayer\bin\Debug\net6.0\AuctionApp.DataLayer.pdb
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\AuctionApp.DataLayer.csproj.AssemblyReference.cache
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\AuctionApp.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\AuctionApp.DataLayer.AssemblyInfoInputs.cache
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\AuctionApp.DataLayer.AssemblyInfo.cs
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\AuctionApp.DataLayer.csproj.CoreCompileInputs.cache
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\AuctionApp.DataLayer.dll
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\refint\AuctionApp.DataLayer.dll
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\AuctionApp.DataLayer.pdb
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\ref\AuctionApp.DataLayer.dll
+C:\OnlineAuctionApp\AuctionApp.DataLayer\bin\Debug\net6.0\AuctionApp.DataLayer.runtimeconfig.json
+C:\OnlineAuctionApp\AuctionApp.DataLayer\obj\Debug\net6.0\AuctionApp.DataLayer.genruntimeconfig.cache

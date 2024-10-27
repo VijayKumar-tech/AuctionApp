@@ -1,0 +1,15 @@
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\AuctionApp.Repositories.csproj.AssemblyReference.cache
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\AuctionApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\AuctionApp.Repositories.AssemblyInfoInputs.cache
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\AuctionApp.Repositories.AssemblyInfo.cs
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\AuctionApp.Repositories.csproj.CoreCompileInputs.cache
+C:\OnlineAuctionApp\AuctionApp.Repositories\bin\Debug\net6.0\AuctionApp.Repositories.deps.json
+C:\OnlineAuctionApp\AuctionApp.Repositories\bin\Debug\net6.0\AuctionApp.Repositories.dll
+C:\OnlineAuctionApp\AuctionApp.Repositories\bin\Debug\net6.0\AuctionApp.Repositories.pdb
+C:\OnlineAuctionApp\AuctionApp.Repositories\bin\Debug\net6.0\AuctionApp.DataLayer.dll
+C:\OnlineAuctionApp\AuctionApp.Repositories\bin\Debug\net6.0\AuctionApp.DataLayer.pdb
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\AuctionA.BE5BA006.Up2Date
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\AuctionApp.Repositories.dll
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\refint\AuctionApp.Repositories.dll
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\AuctionApp.Repositories.pdb
+C:\OnlineAuctionApp\AuctionApp.Repositories\obj\Debug\net6.0\ref\AuctionApp.Repositories.dll

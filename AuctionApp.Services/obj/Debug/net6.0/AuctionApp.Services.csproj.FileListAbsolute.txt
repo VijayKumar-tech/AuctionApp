@@ -1,0 +1,17 @@
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\AuctionApp.Services.csproj.AssemblyReference.cache
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\AuctionApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\AuctionApp.Services.AssemblyInfoInputs.cache
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\AuctionApp.Services.AssemblyInfo.cs
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\AuctionApp.Services.csproj.CoreCompileInputs.cache
+C:\OnlineAuctionApp\AuctionApp.Services\bin\Debug\net6.0\AuctionApp.Services.deps.json
+C:\OnlineAuctionApp\AuctionApp.Services\bin\Debug\net6.0\AuctionApp.Services.dll
+C:\OnlineAuctionApp\AuctionApp.Services\bin\Debug\net6.0\AuctionApp.Services.pdb
+C:\OnlineAuctionApp\AuctionApp.Services\bin\Debug\net6.0\AuctionApp.DataLayer.dll
+C:\OnlineAuctionApp\AuctionApp.Services\bin\Debug\net6.0\AuctionApp.Repositories.dll
+C:\OnlineAuctionApp\AuctionApp.Services\bin\Debug\net6.0\AuctionApp.DataLayer.pdb
+C:\OnlineAuctionApp\AuctionApp.Services\bin\Debug\net6.0\AuctionApp.Repositories.pdb
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\AuctionA.AAAA380E.Up2Date
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\AuctionApp.Services.dll
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\refint\AuctionApp.Services.dll
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\AuctionApp.Services.pdb
+C:\OnlineAuctionApp\AuctionApp.Services\obj\Debug\net6.0\ref\AuctionApp.Services.dll
