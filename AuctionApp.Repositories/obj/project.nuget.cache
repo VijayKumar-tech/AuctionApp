@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/GlLDVhBY3U=",
+  "dgSpecHash": "RdPPyh2awV8=",
   "success": true,
-  "projectFilePath": "H:\\OnlineAuctionApp\\AuctionApp.Repositories\\AuctionApp.Repositories.csproj",
+  "projectFilePath": "H:\\AuctionApp\\AuctionApp.Repositories\\AuctionApp.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIRAN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\KIRAN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

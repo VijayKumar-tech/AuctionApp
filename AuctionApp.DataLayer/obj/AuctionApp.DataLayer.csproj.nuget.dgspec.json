@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\OnlineAuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj": {}
+    "H:\\AuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj": {}
   },
   "projects": {
-    "H:\\OnlineAuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj": {
+    "H:\\AuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\OnlineAuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj",
+        "projectUniqueName": "H:\\AuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj",
         "projectName": "AuctionApp.DataLayer",
-        "projectPath": "H:\\OnlineAuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj",
+        "projectPath": "H:\\AuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj",
         "packagesPath": "C:\\Users\\KIRAN\\.nuget\\packages\\",
-        "outputPath": "H:\\OnlineAuctionApp\\AuctionApp.DataLayer\\obj\\",
+        "outputPath": "H:\\AuctionApp\\AuctionApp.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIRAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

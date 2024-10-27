@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/VuZ7SA0DZ8=",
+  "dgSpecHash": "vLY9mNOmC28=",
   "success": true,
-  "projectFilePath": "H:\\OnlineAuctionApp\\AuctionApp.Services\\AuctionApp.Services.csproj",
+  "projectFilePath": "H:\\AuctionApp\\AuctionApp.Services\\AuctionApp.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIRAN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\KIRAN\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

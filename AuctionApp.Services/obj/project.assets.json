@@ -2027,11 +2027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\OnlineAuctionApp\\AuctionApp.Services\\AuctionApp.Services.csproj",
+      "projectUniqueName": "H:\\AuctionApp\\AuctionApp.Services\\AuctionApp.Services.csproj",
       "projectName": "AuctionApp.Services",
-      "projectPath": "H:\\OnlineAuctionApp\\AuctionApp.Services\\AuctionApp.Services.csproj",
+      "projectPath": "H:\\AuctionApp\\AuctionApp.Services\\AuctionApp.Services.csproj",
       "packagesPath": "C:\\Users\\KIRAN\\.nuget\\packages\\",
-      "outputPath": "H:\\OnlineAuctionApp\\AuctionApp.Services\\obj\\",
+      "outputPath": "H:\\AuctionApp\\AuctionApp.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KIRAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2049,11 +2049,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "H:\\OnlineAuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj": {
-              "projectPath": "H:\\OnlineAuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj"
+            "H:\\AuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj": {
+              "projectPath": "H:\\AuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj"
             },
-            "H:\\OnlineAuctionApp\\AuctionApp.Repositories\\AuctionApp.Repositories.csproj": {
-              "projectPath": "H:\\OnlineAuctionApp\\AuctionApp.Repositories\\AuctionApp.Repositories.csproj"
+            "H:\\AuctionApp\\AuctionApp.Repositories\\AuctionApp.Repositories.csproj": {
+              "projectPath": "H:\\AuctionApp\\AuctionApp.Repositories\\AuctionApp.Repositories.csproj"
             }
           }
         }

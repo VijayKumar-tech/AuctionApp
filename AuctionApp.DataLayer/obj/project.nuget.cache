@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFAm9OJOQng=",
+  "dgSpecHash": "E6jL2uRo9nA=",
   "success": true,
-  "projectFilePath": "H:\\OnlineAuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj",
+  "projectFilePath": "H:\\AuctionApp\\AuctionApp.DataLayer\\AuctionApp.DataLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIRAN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\KIRAN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
